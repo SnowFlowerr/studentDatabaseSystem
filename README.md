@@ -15,7 +15,7 @@ This is a simple student database management system implemented in Java. It allo
 To get started with using the Student Database Management System, follow these steps:
 
 1. **Clone the repository**:
-git clone https://github.com/your-username/student-database.git
+git clone https://github.com/SnowFlowerr/studentDatabaseSystem.git
 
 
 2. **Compile the Java files**:
